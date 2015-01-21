@@ -1,5 +1,5 @@
 # The examples makeVector and cachemean were rewritten to create makeCacheMatrix and cacheSolve.
-# No big changes; just changed mean into solve, made x a matrix and changed the names.
+# No big changes; just changed mean into solve, added some comments and changed some names.
 
 
 # This function creates a special "matrix" object that can cache its inverse.
